@@ -18,7 +18,7 @@ In addition to a general understanding of common ML/AI components and their inte
     2. [Example 3](example3) - Python + Go, Testing
     3. [Example 4](example4) - Hosted Inference Service (Hugging Face Infernce API) + Go
     4. [Example 5](example5) - Importing Hugging Face models into Go
-    5. [Example 6](example6) - AI in Go server w/ spaGO
+    5. [Example 6](example6) - AI in Go with spaGO
 6. Conclusions/ Q&A
 
 ## Prerequisites
