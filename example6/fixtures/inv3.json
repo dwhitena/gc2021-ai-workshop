@@ -1,0 +1,10 @@
+{
+    "context": "The programming language Go was designed at Google in two thousand seven.",
+    "question": "When was Go designed?",
+    "answers": [
+        {
+            "text": "two thousand seven",
+            "confidence": 0.96664494
+        }
+    ]
+}

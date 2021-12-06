@@ -1,0 +1,10 @@
+{
+    "context": "Go is a programming language designed at Google in 2020.",
+    "question": "When was Go designed?",
+    "answers": [
+        {
+            "text": "2020",
+            "confidence": 0.96664494
+        }
+    ]
+}

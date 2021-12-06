@@ -1,0 +1,10 @@
+{
+    "context": "In 2007, Google engineers designed the Go programming language.",
+    "question": "When was Go designed?",
+    "answers": [
+        {
+            "text": "2007",
+            "confidence": 0.96664494
+        }
+    ]
+}
