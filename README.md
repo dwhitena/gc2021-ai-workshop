@@ -10,15 +10,15 @@ In addition to a general understanding of common ML/AI components and their inte
 
 1. What is AI?
 2. What does it mean to run AI in production?
-    a. [Example 1](example1) - Python notebook
+    1. [Example 1](example1) - Python notebook
 3. How can AI models be integrated into Go applications?
 4. Introduction to our example for the workshop
 5. Hands-on examples/ coding:
-    a. [Example 2](example2) - Python model server (Flask)
-    b. [Example 3](example3) - Python + Go, Testing
-    c. [Example 4](example4) - Hosted Inference Service (Hugging Face Infernce API) + Go
-    d. [Example 5](example5) - Importing Hugging Face models into Go
-    c. [Example 6](example6) - AI in Go server w/ spaGO
+    1. [Example 2](example2) - Python model server (Flask)
+    2. [Example 3](example3) - Python + Go, Testing
+    3. [Example 4](example4) - Hosted Inference Service (Hugging Face Infernce API) + Go
+    4. [Example 5](example5) - Importing Hugging Face models into Go
+    5. [Example 6](example6) - AI in Go server w/ spaGO
 6. Conclusions/ Q&A
 
 ## Prerequisites
