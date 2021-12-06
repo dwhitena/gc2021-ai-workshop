@@ -1,4 +1,4 @@
-module github.com/dwhitena/gophercon-2021/example2
+module github.com/dwhitena/gophercon-2021/example4
 
 go 1.17
 

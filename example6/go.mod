@@ -1,4 +1,4 @@
-module github.com/dwhitena/gophercon-2021
+module github.com/dwhitena/gophercon-2021/example6
 
 go 1.17
 
@@ -23,7 +23,6 @@ require (
 	github.com/nlpodyssey/gopickle v0.1.0 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	go.opencensus.io v0.23.0 // indirect
-	gocv.io/x/gocv v0.29.0 // indirect
 	golang.org/x/exp v0.0.0-20210513165259-bd7cc9f9ec66 // indirect
 	golang.org/x/net v0.0.0-20210510120150-4163338589ed // indirect
 	golang.org/x/sys v0.0.0-20210511113859-b0526f3d8744 // indirect

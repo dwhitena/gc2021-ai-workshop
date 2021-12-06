@@ -115,8 +115,6 @@ go.opencensus.io/internal
 go.opencensus.io/trace
 go.opencensus.io/trace/internal
 go.opencensus.io/trace/tracestate
-# gocv.io/x/gocv v0.29.0
-## explicit; go 1.13
 # golang.org/x/exp v0.0.0-20210513165259-bd7cc9f9ec66
 ## explicit; go 1.17
 golang.org/x/exp/rand
