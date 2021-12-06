@@ -25,7 +25,7 @@ To run the example:
     $ INFER_URL=http://localhost:8081/answer ./example3
     ```
 
-To test the API, run:
+To call the API, run:
 
 ```
 $ curl --location --request POST 'localhost:8080/answer' \
@@ -34,4 +34,11 @@ $ curl --location --request POST 'localhost:8080/answer' \
     "context": "Go is a programming language designed at Google in 2007.",
     "question": "When was Go designed?"
 }'
+```
+
+To test the application:
+
+
+```
+$ INFER_URL=http://localhost:8081/answer go test
 ```
